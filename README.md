@@ -2,7 +2,7 @@
 From the [SkillFactory](Skillfactory.ru).
 
 ##Projects
-* Project 0. Game guess the number (https://github.com/Elchinchase/sf_data_since/project_0)
+* Project 0. Game guess the number (ithub.com/Elchinchase/skillfactory_projects/tree/main/project_0)
 * Project 1. ---
 
 # Link for CV
